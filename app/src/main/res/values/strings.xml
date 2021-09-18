@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Moviefirst</string>
+
+    <string name="title">Title</string>
+    <string name="genre">Genre</string>
+    <string name="userscore">User Score</string>
+    <string name="releasedate">Release date</string>
+    <string name="overview">Overview</string>
+    <string name="tabmovie">Movies</string>
+    <string name="tabtvshos">TV Shows</string>
+    <string name="welcome">Welcome to Movie First</string>
+
+</resources>
